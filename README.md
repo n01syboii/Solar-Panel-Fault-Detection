@@ -99,7 +99,7 @@ The best model achieved a validation accuracy of **90.96%**. The model was train
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/n01syboii/Solar.git
+git clone https://github.com/n01syboii/Solar-Panel-Fault-Detection.git
 cd Solar
 ```
 
