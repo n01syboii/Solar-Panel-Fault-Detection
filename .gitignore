@@ -12,8 +12,8 @@ env/
 
 Data For Solar/
 segmented_output/
-test/
-train/
+test
+train
 
 YOLO & SAM.ipynb
 yolov8n.pt
@@ -21,3 +21,4 @@ sam_vit_h_4b8939.pth
 
 *.pth
 !best_solar_panel_model_0.9096.pth
+solar_panel_model_testing
