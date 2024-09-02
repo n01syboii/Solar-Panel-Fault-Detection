@@ -1,16 +1,23 @@
-solar_panel_model_89.16.pth
-YOLO & SAM.ipynb
-*.pth
-!best_solar_panel_model_0.9096.pth
-Data For Solar/
-segmented_output/
-.ipynb_checkpoints/
-yolov8n.pt
-sam_vit_h_4b8939.pth
 *.log
 *.tmp
+
 __pycache__/
 *.py[cod]
 *$py.class
+
 venv/
 env/
+
+.ipynb_checkpoints/
+
+Data For Solar/
+segmented_output/
+test/
+train/
+
+YOLO & SAM.ipynb
+yolov8n.pt
+sam_vit_h_4b8939.pth
+
+*.pth
+!best_solar_panel_model_0.9096.pth
