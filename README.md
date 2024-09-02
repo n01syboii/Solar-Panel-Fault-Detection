@@ -1,3 +1,5 @@
+#test
+
 # Solar Panel Fault Detection System
 
 This project is focused on building a Convolutional Neural Network (CNN) to detect various types of faults in solar panels using image data. The model is trained using a ResNet-50 architecture and fine-tuned on a dataset of solar panel images categorized into six different classes.
